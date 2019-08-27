@@ -7,3 +7,16 @@ What command do you use to ask git to move your file from the staging area to th
 What command do you use to get updates from the class repository? in terminal - git fetch upstream
 
 What command do you use to push your work to your fork of the class repository? in terminal - git push origin master
+
+
+&*&*&*&*&*&*&*&*&*&*&*&*&*&
+
+Answer more questions!
+
+What command do you use to unstage a file? git reset
+
+What command do you use to change your files back to how they were after a commit? git revert --
+
+Why is it important to use -- when changing files back to a previous state? my group thinks it is to specify which files to revert
+
+Why might you want to reset your files back to a previous commit? if you did something wrong and get stuck
